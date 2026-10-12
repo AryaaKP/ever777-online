@@ -1,0 +1,23 @@
+{
+  "name": "Ever 777 Official App",
+  "short_name": "Ever 777",
+  "description": "Authentic Vegas 777 Reels, Lucky Jackpots & Golden Aviator",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#091817",
+  "theme_color": "#0D9488",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./apple-touch-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml"
+    }
+  ]
+}
